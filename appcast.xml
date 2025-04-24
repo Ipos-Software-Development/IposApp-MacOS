@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Ipos</title>
+        <item>
+            <title>Internal Beta 18.3.0</title>
+            <pubDate>Thu, 24 Apr 2025 10:03:55 +0300</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>Internal Beta 18.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
+            <enclosure url="Ipos-1.0.0.zip" length="1601518" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>

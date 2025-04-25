@@ -3,12 +3,12 @@
     <channel>
         <title>Ipos</title>
         <item>
-            <title>1.0.0.183</title>
-            <pubDate>Fri, 25 Apr 2025 15:37:46 +0300</pubDate>
+            <title>1.0.1.183</title>
+            <pubDate>Fri, 25 Apr 2025 15:46:58 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0.0.183</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.0.1.183</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Ipos-Software-Development/IposApp-MacOS/refs/heads/main/Ipos-1.0.0.183.zip" length="1603763" type="application/octet-stream" sparkle:edSignature="ivVchBy0Kn/d7bUHvUsZfxtnOdQ/BWJ7iafszC7ToBBTBwovkez3gem0vqGnowHaZZjFPLeZsEe2QyksJK1pAA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Ipos-Software-Development/IposApp-MacOS/refs/heads/main/Ipos-1.0.1.183.zip" length="1604275" type="application/octet-stream" sparkle:edSignature="bPEJWPjNX4SLl0evjtV1y8pBOE0jsWpOIdIyyHxW6eVY1xIpPbqoPftZ5b1u6LkdIbv6FW0r4FEzX6cXwifeBQ=="/>
         </item>
     </channel>
 </rss>

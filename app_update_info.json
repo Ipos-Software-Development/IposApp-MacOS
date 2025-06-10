@@ -2,9 +2,9 @@
   "version": "1.0.1.1900_257",
   "build": "1",
   "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257.zip",
-  "changelog": "-Добавлена проверка подписи хэша\n-Testing new updatesystem\n-Wololong",
-  "sha256": "298364315866ab1a16e8ba9bb51cbae82abc05744158ecc79cf04b80784f7c46",
-  "signature_sha256_base64": "MEQCICZSUoGPaTl7dkto6ZjAVT8NUK+IsWDRzlQxepFGi9GFAiBFpyrpPCN2kuYhmysE8v5O9dZW/U+QmgCkWnF0xKZTNw==", 
-  "release_date": "2025-06-10T15:16:32Z",
+  "changelog": "",
+  "sha256": "93151dc838249af24623db147fae2152ac641bc5d58d9402f9cfb5c9300f59d3",
+  "signature_sha256_base64": "MEUCIQCnwMnGZ4sz+Nz4hezyUNmr5TkOx0bV6xdPN7dZOUAKIgIgJ++V9/VKxIJTkXiVxXfpFWnailKjKja0smhbh3mO9Iw=", 
+  "release_date": "2025-06-10T17:31:42Z",
   "notes": "Для установки распакуйте архив и переместите приложение в папку 'Программы'. При первом запуске может потребоваться обойти Gatekeeper (правый клик -> Открыть)."
 }

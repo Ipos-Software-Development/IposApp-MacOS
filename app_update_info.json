@@ -1,7 +1,7 @@
 {
   "version": "1.0.1.1900_257",
   "build": "1",
-  "download_url": "ttps://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257.zip",
+  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257.zip",
   "changelog": "-Добавлена проверка подписи хэша\n-Testing new updatesystem\n-Wololong",
   "sha256": "298364315866ab1a16e8ba9bb51cbae82abc05744158ecc79cf04b80784f7c46",
   "signature_sha256_base64": "MEQCICZSUoGPaTl7dkto6ZjAVT8NUK+IsWDRzlQxepFGi9GFAiBFpyrpPCN2kuYhmysE8v5O9dZW/U+QmgCkWnF0xKZTNw==", 

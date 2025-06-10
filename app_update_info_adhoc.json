@@ -2,8 +2,8 @@
   "version": "1.0.2.183",
   "build": "1",
   "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-AdHoc-1.0.2.183.dmg",
-  "changelog": "-Added none, testing OTA_App\n-Added new nothing",
-  "sha256": "36cb89abfc835f004d87a9124c88841599b827d1fcf4782172071696c01d22c7",
-  "release_date": "2025-06-10T12:43:37Z",
+  "changelog": "-Initial Beta Version",
+  "sha256": "7fb97cb2704ab35b948c1337b9260ac2a15924283d919cc605d1db64a76ab1b3",
+  "release_date": "2025-06-10T12:53:14Z",
   "notes": "Это Ad-hoc подписанная версия. Для установки может потребоваться обойти Gatekeeper (правый клик -> Открыть или через Системные настройки)."
 }

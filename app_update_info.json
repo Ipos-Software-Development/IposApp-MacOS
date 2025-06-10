@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1.1900_257",
+  "version": "1.0.1.1900_257_Stub",
   "build": "1",
-  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257.zip",
-  "changelog": "",
-  "sha256": "93151dc838249af24623db147fae2152ac641bc5d58d9402f9cfb5c9300f59d3",
-  "signature_sha256_base64": "MEUCIQCnwMnGZ4sz+Nz4hezyUNmr5TkOx0bV6xdPN7dZOUAKIgIgJ++V9/VKxIJTkXiVxXfpFWnailKjKja0smhbh3mO9Iw=", 
-  "release_date": "2025-06-10T17:31:42Z",
+  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257_Stub.zip",
+  "changelog": "-Initial Release",
+  "sha256": "a1d441b76bb91b4acbc69f685c990d34c5ee93482244d67772ae262958e99929",
+  "signature_sha256_base64": "MEUCIQDis9+tDRkXeOf9U4ijOfiwxgnu0yiMZLuRG9cg7H92SQIgV2Op9aFEYt28GfRzLMJrI+A0k13ME4gwnmw6xnQpA9w=", 
+  "release_date": "2025-06-10T18:44:31Z",
   "notes": "Для установки распакуйте архив и переместите приложение в папку 'Программы'. При первом запуске может потребоваться обойти Gatekeeper (правый клик -> Открыть)."
 }

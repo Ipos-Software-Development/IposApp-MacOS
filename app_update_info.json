@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1.1900_257_Stub",
+  "version": "1.0.0_Stub",
   "build": "1",
-    "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.1.1900_257_Stub.zip",
-  "changelog": "-Initial Release",
-  "sha256": "a1d441b76bb91b4acbc69f685c990d34c5ee93482244d67772ae262958e99929",
-  "signature_sha256_base64": "MEUCIQDis9+tDRkXeOf9U4ijOfiwxgnu0yiMZLuRG9cg7H92SQIgV2Op9aFEYt28GfRzLMJrI+A0k13ME4gwnmw6xnQpA9w=", 
-  "release_date": "2025-06-10T18:44:31Z",
-  "notes": "Ipos 19 Beta will be removed from activated devices in order to move app updates to production channel."
+  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.0_Stub.zip",
+  "changelog": "",
+  "sha256": "16443b706d6e2cd22b23fc0f0af5799f2488e2c0c0f20d9b8330ce3707761412",
+  "signature_sha256_base64": "MEUCIQDaZyY9EJ01dsH8aFphKphTrSGcV0983XrZ+DnHlYVNgQIgXeVe2FCZZdFCxsgthjAvo+zg0ESwR5cZgctrjOt3uzs=", 
+  "release_date": "2025-06-18T10:42:30Z",
+  "notes": "Для установки распакуйте архив и переместите приложение в папку 'Программы'. При первом запуске может потребоваться обойти Gatekeeper (правый клик -> Открыть)."
 }

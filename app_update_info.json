@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "build": "1",
+  "build": "2",
   "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main/Ipos-1.0.0.zip",
   "changelog": "-First Bundle",
   "sha256": "772c2679b674e855d42b4f4f26160c9ab0006055c092988b2a447ea1f42f427a",

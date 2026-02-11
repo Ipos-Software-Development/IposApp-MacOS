@@ -1,10 +1,10 @@
 {
-  "version": "2.0.0",
-  "build": "2",
-  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main/Ipos-1.0.1.1900_257_Stub.zip",
-  "changelog": "-First servicing update\n-Reworked UpdateService and EncryptionService\n-Added separate ContentUpdate function\n-Allowed acess to sampleIndexWebview for debugging purposes.",
-  "sha256": "8de9fb757fccccac5e811a216e6212e7005ccf6560854c68517bf8537da165ce",
-  "signature_sha256_base64": "MEYCIQCS2YFjmJLrgz89CphcSqR/iWNIrqsa0Xmsi3EHdaskGAIhALdYOD8jr++B13vFXhC7lvqvJkEgmQQLyZJHf3QTSEcG", 
-  "release_date": "2025-06-17T21:29:45Z",
-  "notes": "Для установки распакуйте архив и переместите приложение в папку 'Программы'. При первом запуске может потребоваться обойти Gatekeeper (правый клик -> Открыть)."
+  "version": "1.0.0",
+  "build": "1",
+  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main/Ipos-1.0.0.zip",
+  "changelog": "-First Bundle",
+  "sha256": "772c2679b674e855d42b4f4f26160c9ab0006055c092988b2a447ea1f42f427a",
+  "signature_sha256_base64": "MEUCIEAe1BPIjDb6HuGJkrAhCrAL2CvkYZV3oR89ib9zQ6yeAiEAw4ZxrKhvd+Q0ktyutkdOXD7V6S8pqmC481xB1xWpZmY=",
+  "release_date": "2026-02-11T12:49:01Z",
+  "notes": "Установка через перетаскивание."
 }

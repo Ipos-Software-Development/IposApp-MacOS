@@ -1,7 +1,7 @@
 {
   "version": "2.0.0",
   "build": "2",
-  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.2.1900_257_Stub.zip",
+  "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main/Ipos-1.0.2.1900_257_Stub.zip",
   "changelog": "-First servicing update\n-Reworked UpdateService and EncryptionService\n-Added separate ContentUpdate function\n-Allowed acess to sampleIndexWebview for debugging purposes.",
   "sha256": "8de9fb757fccccac5e811a216e6212e7005ccf6560854c68517bf8537da165ce",
   "signature_sha256_base64": "MEYCIQCS2YFjmJLrgz89CphcSqR/iWNIrqsa0Xmsi3EHdaskGAIhALdYOD8jr++B13vFXhC7lvqvJkEgmQQLyZJHf3QTSEcG", 

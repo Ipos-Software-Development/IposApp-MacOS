@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0.1900",
+  "version": "2.0.0",
   "build": "1",
   "download_url": "https://github.com/Ipos-Software-Development/IposApp-MacOS/raw/refs/heads/main//Ipos-1.0.2.1900_257_Stub.zip",
   "changelog": "-First servicing update\n-Reworked UpdateService and EncryptionService\n-Added separate ContentUpdate function\n-Allowed acess to sampleIndexWebview for debugging purposes.",
